@@ -19,6 +19,7 @@ Nand2Tetris IDE Online :https://nand2tetris.github.io/web-ide/chip
 
 For example:
 (a or b) => not not(a or b) => not(not a and not b)
+
 not => (a nand a)
 
 Hint: Think from Proposition Logic!!
