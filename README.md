@@ -15,7 +15,7 @@ Nand2Tetris IDE Online :https://nand2tetris.github.io/web-ide/chip
 ### Lecture 1
 #### Ideal
 - All Boolean functions can implementation by  not、and
-- not、and can combine to nand，so we use nand for implement
+- not、and can combine to nand,so we use nand for implement
 
 For example:
 
