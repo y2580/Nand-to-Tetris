@@ -12,7 +12,7 @@ Nand2Tetris IDE Online :https://nand2tetris.github.io/web-ide/chip
 ![image](./image/架構圖.png)
 
 ## 章節簡介
-### Lecture 1
+### Lecture 1、2
 #### Ideal
 - All Boolean functions can implementation by  not、and
 - not、and can combine to nand,so we use nand for implement
