@@ -24,3 +24,7 @@ For example:
 not => (a nand a)
 
 Hint: Think from Proposition Logic!!
+### Lecture 3
+#### Key point
+- You have clear know how does the DFF work  
+![image](./image/DFF.png)
