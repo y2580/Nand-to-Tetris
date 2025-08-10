@@ -26,5 +26,5 @@ not => (a nand a)
 Hint: Think from Proposition Logic!!
 ### Lecture 3
 #### Key point
-- You have clear to know how does the DFF work  
+- You have to know how does the DFF work clearly. 
 ![image](./image/DFF.png)
