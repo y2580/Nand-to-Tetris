@@ -32,8 +32,8 @@ Hint: Think from Proposition Logic!!
 #### Key point
 How to use Variable symbol?
 - 寫入「位址」與寫入「內容」的差別
-'''
+```
 @SCREEN  D=A
 @i       A=D+M   // A = SCREEN + i
 M = ...          // 對該位址寫資料
-'''
+```
