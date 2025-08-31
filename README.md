@@ -38,6 +38,7 @@ How to use Variable symbol?
 M = ...          // 對該位址寫資料
 ```
 ### Lecture 5
+#### key point
 ![image](./image/cpu.png)
 ### Hardware part
 ![image](./image/hardwarepart.png)
