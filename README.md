@@ -37,3 +37,7 @@ How to use Variable symbol?
 @i       A=D+M   // A = SCREEN + i
 M = ...          // 對該位址寫資料
 ```
+### Lecture 5
+![image](./image/cpu.png)
+### Hardware part
+![image](./image/hardwarepart.png)
